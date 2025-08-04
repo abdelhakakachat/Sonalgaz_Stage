@@ -1,5 +1,5 @@
 # Sonalgaz_Stage
-Forecasting monthly gas consumption for Ali Mendjeli and Constantine using ARIMA and Random Forest.
+Forecasting monthly electrecity consumption for Ali Mendjeli and Constantine using ARIMA and Random Forest.
 # Electricity and Gas Consumption Analysis
 
 ## Project Overview
